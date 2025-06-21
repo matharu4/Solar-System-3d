@@ -1,0 +1,25 @@
+{
+  "name": "solarsystem",
+  "version": "1.0.0",
+  "description": "3D solar system simulation using Three.js",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matharu4/Solar-3d.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matharu4/Solar-3d/issues"
+  },
+  "homepage": "https://github.com/matharu4/Solar-3d#readme",
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
